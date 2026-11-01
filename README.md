@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="rate-my-taste-logo.svg" width="150" alt="Rate My Taste Logo" />
+  <h1>Rate My Taste</h1>
+</div>
+
+
+
+
+
 Rate My Taste
 Müzik zevkinin röntgenini çek. Sonucu dünyaya göster.
 Rate My Taste, Spotify ve Last.fm verilerini kullanarak müzik dinleme alışkanlıklarınızı derinlemesine analiz eden, multiplayer "Zevk Savaşı" özelliğine sahip bir mobil uygulamadır. Sadece popülerlik puanlarına bakmaz; obskürite, kült faktörü, enerji ve kişisel bağ gibi 5 farklı metrikle şarkıların DNA'sını çıkarır.
